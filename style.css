@@ -5,18 +5,25 @@ body {
     background-color: aliceblue;
 }
 
-p{
-    background-color: aqua;
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 30px;
+}
+h3 {
+    font-size: 25px;
 }
 
-a{
-    background-color: aqua;
+li {
+    font-size: 20px
 }
 
-div{
-    background-color: aqua;
+p {
+    font-size: 20px
 }
 
-span{
-    background-color: aqua;
+button {
+    font-size: 20px;
+    size:0cap
 }
