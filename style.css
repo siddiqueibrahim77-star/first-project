@@ -1,29 +1,59 @@
 
 
 body {
-    color: black;
-    background-color: aliceblue;
+    color: white;
+    background-color: rgb(45, 0, 115);
+}
+
+section {
+    margin: 30px;
 }
 
 h1 {
+    background-color: rgb(15, 0, 40);
     font-size: 50px;
 }
+
+.inline-heading, p {
+    display: inline-block;
+}
+
+.about-me {
+    font-size: 21px;
+    margin: 0px 0px 0px 0px;
+}
+
 h2 {
     font-size: 30px;
 }
 h3 {
+    color: rgb(255, 125, 145);
     font-size: 25px;
+    margin: 0px 0px 5px 0px;
 }
 
+ul {
+    list-style: disc;
+}
 li {
     font-size: 20px
 }
 
 p {
-    font-size: 20px
+    font-size: 20px;
+    margin: 0px 0px 0px 0px;
+}
+
+a {
+    
+    font-size: 20px;
+    color: rgb(0, 255, 34);
 }
 
 button {
+    border: white;
+    background-color: aliceblue;
+    box-shadow: 0px 0px 10px 0px white;
     font-size: 20px;
-    size:0cap
+    size:0cap;
 }
